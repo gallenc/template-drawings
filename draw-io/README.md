@@ -1,5 +1,6 @@
 # draw-io templates
-template-drawings/blob/master/draw-io/DFD/TemplateDFD.png
+
+TemplateDFD.png
 
 ![alt text](../draw-io/DFD/TemplateDFD.png "Figure TemplateDFD.png")
 
