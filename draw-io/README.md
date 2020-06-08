@@ -1,5 +1,8 @@
 # draw-io templates
+template-drawings/blob/master/draw-io/DFD/TemplateDFD.png
 
-![alt text](../template-drawings/draw-io/DFD/TemplateDFD.png "Figure TemplateDFD.png")
+![alt text](../draw-io/DFD/TemplateDFD.png "Figure TemplateDFD.png")
 
-![TemplateDFD.drawio](../template-drawings/draw-io/DFD/TemplateDFD.drawio)
+(open with https://app.diagrams.net/)
+
+![TemplateDFD.drawio](../draw-io/DFD/TemplateDFD.drawio)
